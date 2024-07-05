@@ -1,7 +1,7 @@
-# crypto-trading-bot
+# Crypto-trading-bot
 This bot helps you effortlessly copy trades from Telegram channels and execute them on major cryptocurrency exchanges. Happy trading!
 
-# HOW TO USE?
+## HOW TO USE?
 The bot will automatically start listening to messages from the configured Telegram source channel. When it detects a trade signal, it will process the information and execute the corresponding trade on your configured cryptocurrency exchange.
 1) Replace the placeholders with your actual values:
  ```
